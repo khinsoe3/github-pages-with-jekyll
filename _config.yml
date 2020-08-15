@@ -3,7 +3,7 @@ author: khinsoe3
 email: ks2024639@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is Khin Soe's new site for knowledge-sharing.
-  
+theme: Minima
 
 # social links
 twitter_username: KhinSoe19 # DO NOT include the @ character, or else the build will fail!
